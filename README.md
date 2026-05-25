@@ -1,4 +1,4 @@
-# Exercise Sessions – EL2805 Reinforcement Learning (KTH, 2025 Edition)
+# Exercises in Reinforcement Learning @ KTH (2025)
 
 This repository contains the exercise sessions developed for **EL2805 Reinforcement Learning** at KTH Royal Institute of Technology (2025 edition). The goal is to complement the lectures with hands-on implementation, intuition-building, and theoretical insights into reinforcement learning.
 
